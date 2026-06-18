@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Tankut Kayaalp! 👋
+
+## Professional Statement
+Highly disciplined and detail-oriented Cybersecurity professional dedicated to securing enterprise infrastructures, safeguarding digital assets, and maintaining robust security postures against evolving threat landscapes. Demonstrates a structured, analytical approach to problem-solving, underpinned by a relentless commitment to continuous technical learning and time management. Proficient in leveraging scripting and automation to optimize security workflows, with a strong foundational focus on network monitoring, threat detection systems, and incident analysis. Committed to the highest ethical compliance and data integrity standards, seeking to deliver proactive defense, actionable intelligence, and measurable value to a forward-thinking security operations team.
+
+---
+
+## 🛠️ Tech Stack & Focus Areas
+- **Defensive Security:** Threat Detection (IDS/IPS), Network Monitoring, Log Analysis
+- **Scripting & Automation:** Python, Bash
+- **Operating Systems:** Linux (Kali, Ubuntu), Windows Server
 
 <!--
 **tkayaalp/tkayaalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
